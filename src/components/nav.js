@@ -1,4 +1,4 @@
-import Main from "./main";
+
 
 function Nav () {
 
